@@ -12,3 +12,4 @@ Then I applied Multi-Linear Regression algorithm to get the actual prediction.
 For performance, I checked the root_mean_squared_error, mean_squared_error and r2_score.
 r2_score was 0.98 which is a good prediction since it varies from least 0.0 to best 1.0
 Then in the last I drew a graph b/w actual and predicted values which I tested to check how data varied during prediction.
+The file can be downloaded and previewed using Anaconda Jupyter Python 3.0 or can be viewed from my google colaboratory https://colab.research.google.com/drive/1RjMCV5EAEf7vdTLvwHn4JKFH7zep09cl
